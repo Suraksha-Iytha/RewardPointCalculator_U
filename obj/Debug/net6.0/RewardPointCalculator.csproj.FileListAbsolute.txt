@@ -1,0 +1,17 @@
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/RewardPointCalculator
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/RewardPointCalculator.deps.json
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/RewardPointCalculator.runtimeconfig.json
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/RewardPointCalculator.dll
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/ref/RewardPointCalculator.dll
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/RewardPointCalculator.pdb
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.csproj.AssemblyReference.cache
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.AssemblyInfoInputs.cache
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.AssemblyInfo.cs
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.csproj.CoreCompileInputs.cache
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.dll
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/ref/RewardPointCalculator.dll
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.pdb
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.genruntimeconfig.cache
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/bin/Debug/net6.0/Microsoft.Office.Interop.Excel.dll
+/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/Debug/net6.0/RewardPointCalculator.csproj.CopyComplete
