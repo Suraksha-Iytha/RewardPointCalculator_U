@@ -71,7 +71,11 @@ namespace  RewardPointCalculator
                         if (_ramt < 0){throw new InvalidRecordException ("Please enter amount greater than zero");} 
                         records.Add(_rid, _ramt);// trimming presence of any special characters
                     }                
-                }// file is empty 
+                }
+                if(text.Length ==0)
+                {
+                    Console.WriteLine("No Data found: File is empty ");
+                } 
                 return records;                
             }
             catch(InvalidRecordException e)

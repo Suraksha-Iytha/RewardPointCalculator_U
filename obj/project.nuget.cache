@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9VkGrO92MuQMxiAQXM03/F4ukSk2kWH2fPuy6sCDyu8pbrR09KKcsiXv17hL3X1jY77ot+KRSmI8BOKRfGHVhg==",
+  "dgSpecHash": "AdABj52WCF9kIcECbgON/AA0Qcd/dbrkAuljTrROYexNOQjm40QCN5oSHSCwrRhvKhsy0Yg6OoE9biHkO6K6nA==",
   "success": true,
-  "projectFilePath": "/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/RewardPointCalculator.csproj",
+  "projectFilePath": "/Users/surakshaiytha/Documents/RewardPointCalculator/RewardPointCalculator.csproj",
   "expectedPackageFiles": [
     "/Users/surakshaiytha/.nuget/packages/microsoft.office.interop.excel/15.0.4795.1000/microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
   ],

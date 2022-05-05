@@ -38,11 +38,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/RewardPointCalculator.csproj",
+      "projectUniqueName": "/Users/surakshaiytha/Documents/RewardPointCalculator/RewardPointCalculator.csproj",
       "projectName": "RewardPointCalculator",
-      "projectPath": "/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/RewardPointCalculator.csproj",
+      "projectPath": "/Users/surakshaiytha/Documents/RewardPointCalculator/RewardPointCalculator.csproj",
       "packagesPath": "/Users/surakshaiytha/.nuget/packages/",
-      "outputPath": "/Users/surakshaiytha/Desktop/Studies/RewardPointCalculator/obj/",
+      "outputPath": "/Users/surakshaiytha/Documents/RewardPointCalculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/surakshaiytha/.nuget/NuGet/NuGet.Config"
